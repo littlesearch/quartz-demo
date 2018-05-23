@@ -1,0 +1,8 @@
+job.param.id: myDemoJob11111
+job.trigger.interval: 2100
+
+#Cron通用表达式
+job.cron.formula: 0/5 * * * * ?
+#指定时间
+job.cron.formula.time: 12 56 17 * * ?
+
