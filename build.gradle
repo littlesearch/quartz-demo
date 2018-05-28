@@ -12,7 +12,7 @@ buildscript {
         noa_boot_parent_version = '1.0.3'
     }
     repositories {
-        maven { url "http://nexus.baozun.com/repository/bz-develop/" }
+        maven { url "http://maven.aliyun.com/nexus/content/groups/public/" }
         maven { url "https://gitlab.spring.io/libs-milestone" }
     }
 
